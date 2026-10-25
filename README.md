@@ -10,9 +10,9 @@
 | :---: | :---: | :---: |
 | <img src="docs/images/01_single_hero.jpg" width="260" /> | <img src="docs/images/02_grid_comparison.jpg" width="260" /> | <img src="docs/images/03_main_city.jpg" width="260" /> |
 
-| Şehir Arama & Öneriler | Hızlı Önizleme & Derece Penceresi |
-| :---: | :---: |
-| <img src="docs/images/04_search_autocomplete.jpg" width="260" /> | <img src="docs/images/05_preview_dialog.jpg" width="260" /> |
+| Şehir Arama & Öneriler | Hızlı Önizleme & Derece | Tema & Mevsim Ayarları |
+| :---: | :---: | :---: |
+| <img src="docs/images/04_search_autocomplete.jpg" width="260" /> | <img src="docs/images/05_preview_dialog.jpg" width="260" /> | <img src="docs/images/06_theme_settings.jpg" width="260" /> |
 
 ---
 
