@@ -4,6 +4,18 @@
 
 ---
 
+## 📸 Uygulama Ekran Görüntüleri
+
+| Tek Şehir & Çorap Önerisi | 4 Şehir 2x2 Karşılaştırma | Ana Şehir Görünümü |
+| :---: | :---: | :---: |
+| <img src="docs/images/01_single_hero.jpg" width="260" /> | <img src="docs/images/02_grid_comparison.jpg" width="260" /> | <img src="docs/images/03_main_city.jpg" width="260" /> |
+
+| Şehir Arama & Öneriler | Hızlı Önizleme & Derece Penceresi |
+| :---: | :---: |
+| <img src="docs/images/04_search_autocomplete.jpg" width="260" /> | <img src="docs/images/05_preview_dialog.jpg" width="260" /> |
+
+---
+
 ## ✨ Temel Özellikler
 
 - **📍 Akıllı Konum Tespiti:** Uygulama açılışında izin alarak cihazın mevcut konumundaki şehri otomatik bulur ve hava durumunu getirir (İzin verilmezse varsayılan olarak Ankara ile başlar).
